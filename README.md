@@ -8,6 +8,8 @@ Production URL: [http://stockoption.ymlai87416.com/](http://stockoption.ymlai874
 
 ### Server 
 
+[![Build Status](https://travis-ci.org/ymlai87416/stockoption-api.svg?branch=master)](https://travis-ci.org/ymlai87416/stockoption-api)
+
 Written in spring-boot and current deploy in AWS as a standalone JAR with embedded Tomcat. 
 
 #### Run
@@ -21,3 +23,7 @@ Written in spring-boot and current deploy in AWS as a standalone JAR with embedd
 #### Deploy
 
     java -jar server-0.0.1-SNAPSHOT.jar
+
+### Client
+
+Please refer to https://github.com/ymlai87416/stockoption-spa for details
