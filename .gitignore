@@ -1,0 +1,7 @@
+.idea
+backup
+src\main\resources\application.yml
+.gradle
+build
+gradle
+log
